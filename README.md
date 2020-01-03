@@ -1,0 +1,4 @@
+#Technologies:
+Laravel
+Vue
+InertiaJS
